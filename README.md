@@ -62,15 +62,15 @@ When finished loading, users enter the **Main Lobby**
 ## 🧪 Recommended Demo Walkthrough
 
 ### 1️⃣ Sandbox Mode (Spatial Learning)
-- Select **Sandbox** in the Main Lobby 
-- Note: controller UI can be toggled with **Y button**  
+Select **Sandbox** in the Main Lobby 
+Note: controller UI can be toggled with **Y button**  
 - Use both controllers to grab, stretch, and scale the heart  
 - Walk inside or pull the heart towards you to explore its internal anatomy
 
 **Cut Plane function:**  
 - On the controller UI, **Reset** the heart  
 - Select **Cut Plane**  
-- Grab the cut plane and slice the heart to view 2D cross-sections  
+- Grab the cut plane and slice the heart to view its 2D cross-sections  
 
 When finished, return to **Main Lobby** using the controller UI  
 
