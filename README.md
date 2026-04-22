@@ -62,7 +62,7 @@ When finished loading, users enter the **Main Lobby**
 ## 🧪 Recommended Demo Walkthrough
 
 ### 1️⃣ Sandbox Mode (Spatial Learning)
-Select **Sandbox** in the Main Lobby 
+Select **Sandbox** in the Main Lobby  
 Note: controller UI can be toggled with **Y button**  
 - Use both controllers to grab, stretch, and scale the heart  
 - Walk inside or pull the heart towards you to explore its internal anatomy
