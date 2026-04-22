@@ -33,29 +33,29 @@ By integrating the Logitech MX Ink stylus as a tracked probe, users can perform 
 The following should be completed within the Quest 3's Settings Menu before launching APK.
 
 ### 1. Environment
-- Go to: **Settings → Environment Setup**
-- Create Room Boundary: Create a **2.5m × 2.5m** or larger boundary area (recommended)
-- Set Floor Boundary: Position the controller to the floor and confirm
+Go to: **Settings → Environment Setup**
+Create Room Boundary: Create a **2.5m × 2.5m** or larger boundary area (recommended)
+Set Floor Boundary: Position the controller to the floor and confirm
 
-- Recommended Play Modes:
-- *Sandbox Room: seated or standing* 
-- *Echo Room: seated at desk/table*
+Recommended Play Modes:
+*Sandbox Room: seated or standing* 
+*Echo Room: seated at desk/table*
 
 ### 2. MX Ink Configuration
-- Go to: **Settings → Devices → Stylus**  
-- Pair the MX Ink  
-- **Enable** *Left-Hand Use*
+Go to: **Settings → Devices → Stylus**  
+Pair the MX Ink  
+**Enable** *Left-Hand Use*
 
 ### 3. Tracking Settings
-- Go to: **Settings → Tracking**  
-- **Disable** *Automatically switch between controller and hands*
+Go to: **Settings → Tracking**  
+**Disable** *Automatically switch between controller and hands*
 
 ---
 
 ## ▶️ Launching the App
-- Open **Library → Unknown Sources**  
-- Run: `adu_e_d_ink`  
-- User enters the **Main Lobby**  
+Open **Library → Unknown Sources**  
+Select and Run: `adu_e_d_ink`  
+When done loading, user enters the **Main Lobby**  
 
 ---
 
@@ -69,15 +69,15 @@ The following should be completed within the Quest 3's Settings Menu before laun
 
 **Cut Plane function:**
 - On the controller UI, **Reset** the heart  
-- Select **Cut Plane**
-- Grab the cut plane and view 2D cross-sections  
+- Select **Cut Plane**  
+- Grab the cut plane and slice the heart to view 2D cross-sections  
 
-- When finished, return to **Main Lobby**  
+When finished, return to **Main Lobby**  
 
 ---
 
 ### 2️⃣ Echo Mode (Core Experience)
-Select **Sandbox** in the Main Lobby
+Select **Echo** in the Main Lobby
 
 #### Calibration
 - Align calibration points with table/desk edge → select **Next**  
@@ -87,7 +87,7 @@ Select **Sandbox** in the Main Lobby
 ---
 
 ### 3️⃣ Scan Room Setup
-- Hold MX Ink in **left hand** (probe)  
+- Hold MX Ink (probe) in **left hand**  
 - Use **right controller** for UI Menu and machine interactions  
 
 Toggle ON in Settings:
@@ -122,7 +122,7 @@ Toggle ON in Settings:
 
 ### 6️⃣ Machine Training
 - Open **Machine Guide**  
-- Select **Interactive Tutorial** for guided step by step learning 
+- Select **Interactive Tutorial**  
 
 ---
 
