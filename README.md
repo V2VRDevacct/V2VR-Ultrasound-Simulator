@@ -3,7 +3,7 @@
 **Meta Quest 3 + Logitech MX Ink**  
 Transforming the Meta Quest 3 and MX Ink into a precision VR ultrasound simulator for immersive echocardiography training.
 <p align="center">
-  <img src="assets/V2VR Short Video.gif" width="800"/>
+  <img src="assets/V2VR Short Video.gif" width="400"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ The following should be completed within the Quest 3's Settings Menu before laun
 
 ## ▶️ Launching the App
 - Open **Library → Unknown Sources**  
-- Run: `adu_e_d_ink_v1.0.1.apk`  
+- Run: `adu_e_d_ink`  
 - User enters the **Main Lobby**  
 
 ---
