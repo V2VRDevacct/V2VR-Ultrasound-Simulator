@@ -87,12 +87,14 @@ Select **Echo** in the Main Lobby
 ---
 
 #### Scan Room Setup  
-- Hold MX Ink (probe) in **left hand**  
+- Hold MX Ink (probe) in **left hand** for scanning  
 - Use **right controller** for UI Menu and machine interactions  
 
-Toggle ON in Settings:
+Select Settings in the UI Menu and Toggle ON:
 - Heart Mode (toggles between the transparent Heart and Patient view) 
-- Cut Plane Mode  
+- Cut Plane Mode
+
+**Begin scanning the heart**  
 
 💡 Demonstrates how 2D ultrasound images are generated from 3D anatomy (key learning moment)
 
@@ -103,11 +105,11 @@ Toggle ON in Settings:
 - Select *Parasternal Long Axis*
 - Watch instructional video to get overview of the probe placement 
 - Select **Option A** or **Option B** guidance modes based on learning preference.
-- When ready, position probe on the patient and follow visual guidance indicators.
+- When ready, position probe on the virtual mannequin and follow visual guidance indicators.
 - Adjust probe to acquire correct image
 - *(Note: For image to appear on screen, probe must be touching the body surface)* 
 
-⚠️ Without a mannequin, users will be “air scanning”  
+⚠️ Without a physical mannequin, users will be “air scanning”  
 
 ---
 
