@@ -124,7 +124,7 @@ Select Settings in the UI Menu and Toggle ON:
 ---
 
 #### Machine Training  
-- Open **Machine Guide**  
+- Select **Machine Guide** in the UI Menu  
 - Select **Interactive Tutorial**  
 
 ---
