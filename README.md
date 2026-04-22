@@ -107,7 +107,8 @@ Select Settings in the UI Menu and Toggle ON:
 - Select **Option A** or **Option B** guidance modes based on learning preference.
 - When ready, position probe on the virtual mannequin and follow visual guidance indicators.
 - Adjust probe to acquire correct image
-- *(Note: For image to appear on screen, probe must be touching the body surface)* 
+  
+*Note: For 2D image to appear on screen, probe must be touching the body surface* 
 
 ⚠️ Without a physical mannequin, users will be “air scanning”  
 
