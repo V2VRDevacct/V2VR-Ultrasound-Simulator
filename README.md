@@ -37,9 +37,9 @@ Go to: **Settings → Environment Setup**
 Create Room Boundary: Create a **2.5m × 2.5m** or larger boundary area (recommended)  
 Set Floor Boundary: Position the controller to the floor and confirm  
 
-Recommended Play Modes:  
+Recommended Play Mode:  
 *Sandbox Room: seated or standing*  
-*Echo Room: seated at desk/table*  
+*Echo (Scan Room): seated at desk/table*  
 
 ### 2. MX Ink Configuration
 Go to: **Settings → Devices → Stylus**  
@@ -67,7 +67,7 @@ Note: controller UI can be toggled with **Y button**
 - Use both controllers to grab, stretch, and scale the heart  
 - Walk inside or pull the heart towards you to explore its internal anatomy
 
-**Cut Plane function:**  
+**Cut Plane function**  
 - On the controller UI, **Reset** the heart  
 - Select **Cut Plane**  
 - Grab the cut plane and slice the heart to view its 2D cross-sections  
