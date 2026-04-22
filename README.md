@@ -6,7 +6,9 @@ Transforming the Meta Quest 3 and MX Ink into a precision VR ultrasound simulato
   <img src="assets/V2VR Short Video.gif" width="400"/>
 </p>
 
-📦 **Download APK:** [adu_e_d_ink_v1.0.1.apk](https://github.com/V2VRDevacct/V2VR-Ultrasound-Simulator/raw/refs/heads/main/adu_e_d_ink_v1.0.1.apk?download=)  📄 **Project One-Pager:** [View PDF](assets/V2VR_ProjectOnePager.pdf) ▶️ **Demo Video:** https://www.youtube.com/watch?v=dllDnrNrHAY  
+📦 **Download APK:** [adu_e_d_ink_v1.0.1.apk](https://github.com/V2VRDevacct/V2VR-Ultrasound-Simulator/raw/refs/heads/main/adu_e_d_ink_v1.0.1.apk?download=)  
+📄 **Project One-Pager:** [View PDF](assets/V2VR_ProjectOnePager.pdf) 
+▶️ **Demo Video:** [View Video](https://www.youtube.com/watch?v=dllDnrNrHAY)
 
 ---
 
